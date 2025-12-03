@@ -1,0 +1,17 @@
+ <dependency>
+    	<groupId>javax.servlet</groupId>
+    	<artifactId>servlet-api</artifactId>
+    	<version>2.5</version>
+</dependency>
+
+
+run as
+maven clean
+maven install
+maven test
+
+maven build clean install package
+run as server
+
+
+git pull https://github.com/Shashank-Shourie/selabprac2.git

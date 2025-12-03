@@ -1,0 +1,3 @@
+docker pull jasonrivers/nagios:latest
+docker start -ai nagios4
+port 8888
